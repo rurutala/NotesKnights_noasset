@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4a36f706cb9f8d42b1f193cb73fba82, type: 3}
+  m_Name: item7
+  m_EditorClassIdentifier: 
+  itemID: 7
+  itemName: "7.1ch \u30B9\u30D4\u30FC\u30AB\u30FC"
+  itemEffect: "\u30B3\u30B9\u30C8\u4E0A\u6607\u91CF\u30922\u500D"
+  itemIcon: {fileID: 21300000, guid: 59e2598dcd6efb04fa94d7a8bf101a78, type: 3}
+  money: 500
